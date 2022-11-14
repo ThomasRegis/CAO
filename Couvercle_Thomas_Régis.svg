@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg170"
+   sodipodi:docname="Couvercle_Thomas_Régis.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview172"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.9763887"
+     inkscape:cx="433.74119"
+     inkscape:cy="583.2718"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g168" />
+  <desc
+     id="desc132">couv9.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs146">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path134" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path137" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path139" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path141" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g168">
+    <path
+       d="M 228.84917,722.75785 H 469.22712 V 421.90745 H 228.84917 Z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path148" />
+    <path
+       d="m 245.10114,440.80509 h 18.89763 v 185.19685 h -18.89763 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path152" />
+    <path
+       d="m 245.10114,662.28541 h 37.79527 v 37.79527 h -37.79527 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path154" />
+    <path
+       d="m 323.71531,442.69486 h 37.79528 v 26.45669 h -37.79528 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path156" />
+    <path
+       d="m 434.07751,444.58462 h 18.89764 v 158.74016 h -18.89764 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path158" />
+    <path
+       d="m 246.9909,434.75785 a 5.291339,5.291339 0 0 0 -10.58268,0 5.291339,5.291339 0 0 0 10.58268,0 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path160" />
+    <path
+       d="m 461.66807,709.90745 a 5.291339,5.291339 0 0 0 -10.58268,0 5.291339,5.291339 0 0 0 10.58268,0 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path162" />
+    <path
+       d="m 461.66807,434.75785 a 5.291339,5.291339 0 0 0 -10.58268,0 5.291339,5.291339 0 0 0 10.58268,0 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path164" />
+    <path
+       d="m 246.9909,709.90745 a 5.291339,5.291339 0 0 0 -10.58268,0 5.291339,5.291339 0 0 0 10.58268,0 z"
+       style="fill:none;stroke:#ff0000;stroke-opacity:1;stroke-width:1.0015748;stroke-dasharray:none"
+       id="path166" />
+  </g>
+</svg>
